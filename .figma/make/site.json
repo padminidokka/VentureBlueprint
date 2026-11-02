@@ -1,0 +1,10 @@
+{
+  "description": "A polished, reusable design system for an entrepreneurship platform, helping founders turn business ideas into structured startup blueprints.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
